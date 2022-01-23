@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TautologyExample.iml" filepath="$PROJECT_DIR$/TautologyExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumberValidator.iml" filepath="$PROJECT_DIR$/PrimeNumberValidator.iml" />
     </modules>
   </component>
 </project>
